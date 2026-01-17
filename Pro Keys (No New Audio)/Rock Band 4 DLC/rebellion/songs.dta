@@ -1,0 +1,138 @@
+(
+   'Rebellion'
+   (
+      'name'
+      "Rebellion (ft. Daron Malakian)"
+   )
+   (
+      'artist'
+      "Linkin Park"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/rebellion/rebellion"
+      )
+      (
+         'tracks_count'
+         (2 2 2 2 2 2)
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+            (
+               'keys'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00 -1.00 1.00)
+      )
+      (
+         'vols'
+         (0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      ('vocal_parts' 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (mute_volume -96)
+      (mute_volume_vocals -12)
+      (hopo_threshold 170)
+   )
+   ('song_scroll_speed' 2150)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   (drum_bank sfx/kit01_bank.milo)
+   ('anim_tempo' 32)
+   ('song_length' 230759)
+   ('preview' 35000 60000)
+   (
+      'rank'
+   ('drum' 448)
+   ('guitar' 333)
+   ('bass' 436)
+   ('vocals' 175)
+   ('keys' 327)
+   ('real_keys' 327)
+   ('real_guitar' 384)
+   ('real_bass' 442)
+   ('band' 292)
+   )
+   ('genre' 'numetal')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 10)
+   ('album_art' 1)
+   ('year_released' 2014)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_numetal')
+   ('song_id' 2138307377)
+   ('tuning_offset_cents' 0)
+   ('guide_pitch_volume' -3.00)
+   ('game_origin' 'c3customs')
+   (band_fail_cue band_fail_rock_keys.cue)
+   ('encoding' 'latin1')
+   (
+      'album_name'
+      "The Hunting Party"
+   )
+   ('album_track_number' 8)
+   (author "Harmonix, Luna")
+   (real_guitar_tuning (-3 -1 -1 -1 -1 -1))
+   (real_bass_tuning (-3 -1 -1 -1))
+
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Magma: Rok On Edition v4.0.3
+;Song authored by Harmonix, Luna
+;Song=Rebellion (ft. Daron Malakian)
+;Language(s)=English,
+;Karaoke=0
+;Multitrack=1
+;DIYStems=0
+;PartialMultitrack=0
+;UnpitchedVocals=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
