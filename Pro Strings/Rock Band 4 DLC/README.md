@@ -7,5 +7,6 @@
 | Adventure of a Lifetime | Coldplay | G: E Standard<br>B: E Standard | G: E Standard (Capo on 12th)<br>B: same as in-game |
 | F.C.P.R.E.M.I.X | The Fall of Troy | G: E Standard<br>B: E Standard | same as in-game |
 | Jane | Jefferson Starship | G: E Standard<br>B: E Standard | same as in-game |
+| Rebellion | Linkin Park | G: D Drop<br>B: D Drop | G: C Drop<br>B: C Drop |
 | Sweater Weather | The Neighbourhood | G: D Standard<br>B: D Standard | G: E Standard<br>B: E Standard |
 | The Man Who Sold The World (Live) | Nirvana | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
