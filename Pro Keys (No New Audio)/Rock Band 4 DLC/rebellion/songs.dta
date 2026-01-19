@@ -66,6 +66,7 @@
    (album_track_number 8)
    (author
       "Harmonix, Rhythm Authors")
+   ;(strings_author "Luna")
 (
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
