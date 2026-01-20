@@ -44,9 +44,11 @@
       (guitar 360)
       (drum 454)
       (bass 448)
+      (vocals 176)
       (keys 327)
       (real_keys 327)
-      (vocals 176)
+      (real_guitar 384)
+      (real_bass 442)
 )
    (genre numetal)
    (vocal_gender male)
@@ -64,8 +66,13 @@
    (album_track_number 8)
    (author
       "Harmonix, Rhythm Authors")
+   ;(strings_author "Luna")
+(
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+
+)
    (context 2000)
    (decade the10s)
    (downloaded TRUE)
-   (base_points 0)
-   (keys_author "Luna"))
+   (base_points 0))
